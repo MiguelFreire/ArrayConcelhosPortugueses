@@ -1,4 +1,4 @@
 ArrayConcelhosPortugueses
 =========================
 
-Array em PHP com todos os concenhos/cidades portuguesas.
+Array em PHP com todos os concelhos/cidades portuguesas.
